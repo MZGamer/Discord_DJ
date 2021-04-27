@@ -1,0 +1,27 @@
+{
+	"token": "Discord Tokon",
+	"FBPicUpdate": [
+		{
+			"url": "PageUrl",
+			"Name": "PageName",
+			"lastupdate": []
+		}
+	],
+	"FBPicSent": "TargetChannelName",
+	"ReplyTarget": [
+		{
+			"targetmsg": [
+				"msg for Trigger"
+			],
+			"class": "(picture\video)",
+			"reply": [
+				".\\picture\\closetophone.jpg"
+			],
+			"url": []
+		}
+	],
+	"pixiv": {
+		"refreshToken": "Token"
+	},
+	"youtubecookie": "Cookie"
+}
