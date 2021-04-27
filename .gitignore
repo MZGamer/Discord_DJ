@@ -1,6 +1,6 @@
 /node_modules/*
 /picture/*
-config.json
+/config.json
 *.txt
 *.html
 *.log
