@@ -1,0 +1,28 @@
+{
+  "name": "dj_derumin",
+  "version": "1.0.0",
+  "description": "デビルミント鬼龍 デルミン",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MZGamer",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "axios": "^0.21.1",
+    "bili-api": "^1.5.0",
+    "bilibili-get": "^1.6.0",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.5.1",
+    "html2json": "^1.0.2",
+    "ibili": "^1.1.1",
+    "pixiv-api-client": "^0.25.0",
+    "pixiv-img": "^1.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "xmlhttprequest": "^1.8.0",
+    "ytdl-core": "^4.5.0",
+    "ytpl": "^2.0.5",
+    "ytsr": "^3.2.4"
+  }
+}
