@@ -1,7 +1,7 @@
 /node_modules/*
 /picture/*
-/config.json
 *.txt
 *.html
 *.log
 config.json
+pixivtemp.json
