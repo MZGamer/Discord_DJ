@@ -4,6 +4,7 @@ class MusicData {
         this._title = title;
         this._url = url;
     }
+
     get method() {
         return this._method;
     }
@@ -15,8 +16,5 @@ class MusicData {
     }
 
 }
-class DJ {
-    constructor();
-    
-}
-module.exports;
+
+module.exports = MusicData;
